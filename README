@@ -1,0 +1,14 @@
+## 📥 Dataset
+
+This project uses the **LA Crime Data (2020–Present)**
+
+| Field | Details |
+|-------|---------|
+| **Source** | Los Angeles Police Department |
+| **Link** | [Download from data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present) |
+| **Format** | CSV |
+| **Size** | 200MB+ (too large for GitHub) |
+| **Updated** | Daily |
+
+> ⚠️ **Note:** Dataset is not included in this repository due to its large size.  
+> Please download it directly from the link above and place it in the `data/` folder.
